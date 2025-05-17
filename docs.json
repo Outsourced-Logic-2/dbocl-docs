@@ -18,8 +18,7 @@
             "pages": [
               "index",
               "quickstart",
-              "faq",
-              "testing"
+              "faq"
             ]
           },
           {
@@ -35,8 +34,7 @@
             "group": "Features",
             "pages": [
               "features/travel",
-              "features/reports",
-              "features/communication"
+              "features/reports"
             ]
           }
         ]
