@@ -57,7 +57,8 @@
   },
   "logo": {
     "light": "logo/light.svg",
-    "dark": "logo/dark.svg"
+    "dark": "logo/dark.svg",
+    "width": 180
   },
   "navbar": {
     "links": [
