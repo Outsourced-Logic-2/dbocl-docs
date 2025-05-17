@@ -46,11 +46,6 @@
           "anchor": "Our website",
           "href": "https://www.dbocl.com",
           "icon": "globe"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
         }
       ]
     }
