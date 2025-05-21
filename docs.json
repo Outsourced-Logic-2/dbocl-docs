@@ -57,11 +57,6 @@
           "anchor": "Contact us",
           "href": "https://www.dbocl.com/contact-us",
           "icon": "envelope"
-        },
-        {
-          "anchor": "Interactive demo",
-          "href": "https://app.arcade.software/share/4nR7a9e6uQi3nRCk5OIi",
-          "icon": "play"
         }
       ]
     }
