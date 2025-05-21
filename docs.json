@@ -23,9 +23,8 @@
           {
             "group": "Support",
             "pages": [
-              "support/chatbot",
-              "support/demo",
-              "faq"
+              "faq",
+              "support/chatbot"
             ]
           },
           {
@@ -75,7 +74,7 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Contact us",
         "href": "https://www.dbocl.com/contact-us"
       }
     ],
