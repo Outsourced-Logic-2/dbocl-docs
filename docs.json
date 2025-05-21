@@ -17,7 +17,14 @@
             "group": "Get Started",
             "pages": [
               "index",
-              "quickstart",
+              "quickstart"
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+              "support/chatbot",
+              "support/demo",
               "faq"
             ]
           },
@@ -46,6 +53,16 @@
           "anchor": "Our website",
           "href": "https://www.dbocl.com",
           "icon": "globe"
+        },
+        {
+          "anchor": "Contact us",
+          "href": "https://www.dbocl.com/contact-us",
+          "icon": "envelope"
+        },
+        {
+          "anchor": "Interactive demo",
+          "href": "https://app.arcade.software/share/4nR7a9e6uQi3nRCk5OIi",
+          "icon": "play"
         }
       ]
     }
