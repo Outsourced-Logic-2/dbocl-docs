@@ -86,5 +86,11 @@
       "facebook": "https://www.facebook.com/",
       "linkedin": "https://www.linkedin.com/in/kevin-merritt-28513/"
     }
+  },
+  "mcp": {
+    "enabled": true,
+    "search": {
+      "enabled": true
+    }
   }
 }

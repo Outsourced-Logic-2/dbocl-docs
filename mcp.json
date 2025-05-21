@@ -1,0 +1,22 @@
+{
+  "openapi": "3.1.0",
+  "x-mcp": {
+    "enabled": true
+  },
+  "info": {
+    "title": "dBocl Documentation",
+    "version": "1.0.0",
+    "description": "Documentation for dBocl - Database Organizing Chaotic Logistics"
+  },
+  "paths": {
+    "/search": {
+      "get": {
+        "x-mcp": {
+          "enabled": true
+        },
+        "summary": "Search documentation",
+        "description": "Search through dBocl documentation"
+      }
+    }
+  }
+} 
