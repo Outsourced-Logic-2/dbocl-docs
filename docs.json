@@ -24,11 +24,7 @@
             "group": "Support",
             "pages": [
               "faq",
-              "support/chatbot",
-              {
-                "name": "Interactive Demo",
-                "href": "https://app.arcade.software/share/4nR7a9e6uQi3nRCk5OIi"
-              }
+              "support/chatbot"
             ]
           },
           {
