@@ -25,7 +25,7 @@
             "pages": [
               "faq",
               "support/chatbot",
-              { "label": "Interactive demo", "href": "https://app.arcade.software/share/4nR7a9e6uQi3nRCk5OIi" }
+              "support/interactive-demo"
             ]
           },
           {
